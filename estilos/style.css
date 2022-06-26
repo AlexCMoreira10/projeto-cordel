@@ -54,9 +54,11 @@ header>p>a:hover, footer>p>a:hover {
 main {
     max-width: 800px;
     margin: auto;
+
+    
 }
 section {
-    
+
     padding-top: 10vh;
     padding-bottom: 5vh;
     padding-left: 30px;
@@ -64,6 +66,7 @@ section {
 
     font-family: var(--fonte3);
     font-size: 3.6vw;
+    box-shadow: 8px 6px 14px 0px rgba(0, 0, 0, 0.315);
 
 }
 
